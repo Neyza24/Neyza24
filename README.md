@@ -13,7 +13,7 @@
 
 </p>
 
-> Actualmente estoy enfocada en poder colaborar en proyectos para el rol de **Front end** 🌱
+> Actualmente estoy enfocada en poder colaborar en proyectos para el rol de **Front-end** 🌱
 
  
 

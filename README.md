@@ -3,8 +3,6 @@
 
 ![banner](https://user-images.githubusercontent.com/93302540/195195408-1f0a1303-364a-45a9-ae06-29f3a2650a85.png)
 
-Front end developer en constante aprendizaje, autodidacta y con capacidad para trabajar en equipo de forma colaborativa. Mi curiosidad me llevo a aprender sobre diseño UX/UI y gracias a este primer acercamiento en la industria de la tecnología, hace un año decidí estudiar la carrera de Certified Tech Developer en Digital House. 
-
 ### Lenguajes y Herramientas: ###
 <p>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -15,16 +13,8 @@ Front end developer en constante aprendizaje, autodidacta y con capacidad para t
 
 </p>
 
-> Actualmente estoy enfocada en poder colaborar en proyectos para el rol de **Front end** con la finalidad de aplicar y potenciar todo lo aprendido 🌱
+> Actualmente estoy enfocada en poder colaborar en proyectos para el rol de **Front end** 🌱
 
-### Puedes encontrarme en 📍:
-***
-<a href="https://www.linkedin.com/in/neyza-vargas-nv/">
-  <img align="center" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/neyzmw/">
-   <img align="center" alt="Neyza's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
  
 
 
